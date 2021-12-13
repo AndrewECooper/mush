@@ -308,7 +308,7 @@ class CmdCreateNPC(Command):
 
 class CmdEditNPC(Command):
     """
-    edit an existing NPC   
+    edit an existing NPC     
 
     Usage:
       +editnpc <name>[/<attribute> [= value]]
